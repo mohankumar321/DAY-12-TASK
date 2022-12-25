@@ -1,0 +1,39 @@
+.flex-div{
+    text-align: center;
+    display: flex;
+    border: 2px solid black;
+    margin: 50vh;
+     margin-top: 3.5vh;
+     margin-left: 60vh;
+    height: 30vh;
+    width: 80vh;
+    }
+
+    .Event{
+        margin-top: 10vh;
+        text-align: center;
+    }   
+
+    .box-1{
+       background-image: linear-gradient(rgb(18, 220, 234),rgb(39, 148, 81));
+        margin: 50px;
+        border: 2px solid black;
+        height: 20vh;
+        width: 20vh;
+    }
+
+  #data{
+    margin-top: 30px;
+    margin-left: 100px;
+    text-align: right;
+  }
+
+  .button{
+
+    height: 30px;
+    width: 150px;
+    margin: 20px;
+
+    border-radius: 2px;
+  }
+   
